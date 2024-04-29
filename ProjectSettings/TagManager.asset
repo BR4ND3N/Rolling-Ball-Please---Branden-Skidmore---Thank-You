@@ -6,15 +6,16 @@ TagManager:
   tags:
   - Enemy
   - Powerup
+  - Obstacle
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - EnemySpawn
   - Water
   - UI
-  - 
-  - 
+  - Enemy
+  - Player
   - 
   - 
   - 
